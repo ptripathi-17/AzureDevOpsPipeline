@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qsA1yVe6cTIluBtp1QI5PLh1TfQuN7lRbOB/1LTvhxk=",
+  "Source": "APIforDevOpsPipeline",
+  "BasePath": "_content/APIforDevOpsPipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
